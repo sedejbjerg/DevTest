@@ -1,0 +1,3 @@
+Dette er en lille test
+filen ligger i Task1 mappen
+
